@@ -1,0 +1,85 @@
+.logo{
+	text-align: center;
+	color:   #ffff;
+	text-shadow:  2px 2px ;
+	margin: 50px 0;
+	text-shadow: 2px 2px #292626;}
+
+
+
+.top{
+	background-image: url(../img/img066.jpg);
+	padding: 0 ;
+	background-size: cover;
+background-position-x:center ;
+
+	
+}
+.nad{
+	color: #ffff;
+	text-align: center;
+	
+	text-shadow: 2px 2px #292626;
+	
+}
+.bat {
+	text-align: center;
+	margin-top:  70px;
+	
+}
+
+
+.bat a{
+	color: #000000;
+	font-size: 30px;
+	background: #E1E279;
+	border-radius: 6px;
+	padding: 10px 50px;
+	border-style: solid;
+    border-width: 2px;
+	border-color: #070707;
+	text-shadow: 1px 1px 2px #131212;
+	
+	
+}
+.fon{
+	
+	width: 100%;
+ height: 600px;
+	}
+
+
+h5 {
+	color: #ffffff;
+	text-align: right ;
+	margin-right: 70px;
+}
+	
+img {
+	
+	margin-left: 30px;
+	height: 40px;
+
+}
+.blok_ist img {
+	width: 80%;
+	height: 250px;
+	margin-left: 10px;
+	margin-top: 30px;
+	border: 1px;
+	border-color:  #000000;
+	border-style: solid;
+}
+.sekciya{
+	background-color: #99979c;
+	text-align:center;
+	
+
+}
+.blok_ist h3{
+color: #ffffff;
+
+text-shadow: 2px 2px #292626;
+}
+
+	
