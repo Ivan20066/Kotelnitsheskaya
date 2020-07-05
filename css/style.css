@@ -10,7 +10,7 @@
 .top{
 	background-image: url(../img/img066.jpg);
 	padding: 0 ;
-	background-size: cover;
+	background-size: contain;
 background-position-x:center ;
 
 	
